@@ -1,3 +1,3 @@
 # Latihan-Branchs
 Tes dengan development
-Saya Suka GITHUB
+Saya Suka Belajar di dicoding
